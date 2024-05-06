@@ -1,0 +1,14 @@
+D:\ProgrammingPractice_CSharp\RemoveDupSortedList\obj\Debug\net8.0\RemoveDupSortedList.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgrammingPractice_CSharp\RemoveDupSortedList\obj\Debug\net8.0\RemoveDupSortedList.AssemblyInfoInputs.cache
+D:\ProgrammingPractice_CSharp\RemoveDupSortedList\obj\Debug\net8.0\RemoveDupSortedList.AssemblyInfo.cs
+D:\ProgrammingPractice_CSharp\RemoveDupSortedList\obj\Debug\net8.0\RemoveDupSortedList.csproj.CoreCompileInputs.cache
+D:\ProgrammingPractice_CSharp\RemoveDupSortedList\bin\Debug\net8.0\RemoveDupSortedList.exe
+D:\ProgrammingPractice_CSharp\RemoveDupSortedList\bin\Debug\net8.0\RemoveDupSortedList.deps.json
+D:\ProgrammingPractice_CSharp\RemoveDupSortedList\bin\Debug\net8.0\RemoveDupSortedList.runtimeconfig.json
+D:\ProgrammingPractice_CSharp\RemoveDupSortedList\bin\Debug\net8.0\RemoveDupSortedList.dll
+D:\ProgrammingPractice_CSharp\RemoveDupSortedList\bin\Debug\net8.0\RemoveDupSortedList.pdb
+D:\ProgrammingPractice_CSharp\RemoveDupSortedList\obj\Debug\net8.0\RemoveDupSortedList.dll
+D:\ProgrammingPractice_CSharp\RemoveDupSortedList\obj\Debug\net8.0\refint\RemoveDupSortedList.dll
+D:\ProgrammingPractice_CSharp\RemoveDupSortedList\obj\Debug\net8.0\RemoveDupSortedList.pdb
+D:\ProgrammingPractice_CSharp\RemoveDupSortedList\obj\Debug\net8.0\RemoveDupSortedList.genruntimeconfig.cache
+D:\ProgrammingPractice_CSharp\RemoveDupSortedList\obj\Debug\net8.0\ref\RemoveDupSortedList.dll

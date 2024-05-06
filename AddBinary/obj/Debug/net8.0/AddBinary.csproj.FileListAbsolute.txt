@@ -1,0 +1,14 @@
+D:\ProgrammingPractice_CSharp\AddBinary\obj\Debug\net8.0\AddBinary.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgrammingPractice_CSharp\AddBinary\obj\Debug\net8.0\AddBinary.AssemblyInfoInputs.cache
+D:\ProgrammingPractice_CSharp\AddBinary\obj\Debug\net8.0\AddBinary.AssemblyInfo.cs
+D:\ProgrammingPractice_CSharp\AddBinary\obj\Debug\net8.0\AddBinary.csproj.CoreCompileInputs.cache
+D:\ProgrammingPractice_CSharp\AddBinary\bin\Debug\net8.0\AddBinary.exe
+D:\ProgrammingPractice_CSharp\AddBinary\bin\Debug\net8.0\AddBinary.deps.json
+D:\ProgrammingPractice_CSharp\AddBinary\bin\Debug\net8.0\AddBinary.runtimeconfig.json
+D:\ProgrammingPractice_CSharp\AddBinary\bin\Debug\net8.0\AddBinary.dll
+D:\ProgrammingPractice_CSharp\AddBinary\bin\Debug\net8.0\AddBinary.pdb
+D:\ProgrammingPractice_CSharp\AddBinary\obj\Debug\net8.0\AddBinary.dll
+D:\ProgrammingPractice_CSharp\AddBinary\obj\Debug\net8.0\refint\AddBinary.dll
+D:\ProgrammingPractice_CSharp\AddBinary\obj\Debug\net8.0\AddBinary.pdb
+D:\ProgrammingPractice_CSharp\AddBinary\obj\Debug\net8.0\AddBinary.genruntimeconfig.cache
+D:\ProgrammingPractice_CSharp\AddBinary\obj\Debug\net8.0\ref\AddBinary.dll

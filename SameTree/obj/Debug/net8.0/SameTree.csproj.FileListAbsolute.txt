@@ -1,0 +1,14 @@
+D:\ProgrammingPractice_CSharp\SameTree\bin\Debug\net8.0\SameTree.exe
+D:\ProgrammingPractice_CSharp\SameTree\bin\Debug\net8.0\SameTree.deps.json
+D:\ProgrammingPractice_CSharp\SameTree\bin\Debug\net8.0\SameTree.runtimeconfig.json
+D:\ProgrammingPractice_CSharp\SameTree\bin\Debug\net8.0\SameTree.dll
+D:\ProgrammingPractice_CSharp\SameTree\bin\Debug\net8.0\SameTree.pdb
+D:\ProgrammingPractice_CSharp\SameTree\obj\Debug\net8.0\SameTree.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgrammingPractice_CSharp\SameTree\obj\Debug\net8.0\SameTree.AssemblyInfoInputs.cache
+D:\ProgrammingPractice_CSharp\SameTree\obj\Debug\net8.0\SameTree.AssemblyInfo.cs
+D:\ProgrammingPractice_CSharp\SameTree\obj\Debug\net8.0\SameTree.csproj.CoreCompileInputs.cache
+D:\ProgrammingPractice_CSharp\SameTree\obj\Debug\net8.0\SameTree.dll
+D:\ProgrammingPractice_CSharp\SameTree\obj\Debug\net8.0\refint\SameTree.dll
+D:\ProgrammingPractice_CSharp\SameTree\obj\Debug\net8.0\SameTree.pdb
+D:\ProgrammingPractice_CSharp\SameTree\obj\Debug\net8.0\SameTree.genruntimeconfig.cache
+D:\ProgrammingPractice_CSharp\SameTree\obj\Debug\net8.0\ref\SameTree.dll

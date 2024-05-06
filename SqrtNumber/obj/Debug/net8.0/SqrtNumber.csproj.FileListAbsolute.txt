@@ -1,0 +1,14 @@
+D:\ProgrammingPractice_CSharp\SqrtNumber\obj\Debug\net8.0\SqrtNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgrammingPractice_CSharp\SqrtNumber\obj\Debug\net8.0\SqrtNumber.AssemblyInfoInputs.cache
+D:\ProgrammingPractice_CSharp\SqrtNumber\obj\Debug\net8.0\SqrtNumber.AssemblyInfo.cs
+D:\ProgrammingPractice_CSharp\SqrtNumber\obj\Debug\net8.0\SqrtNumber.csproj.CoreCompileInputs.cache
+D:\ProgrammingPractice_CSharp\SqrtNumber\bin\Debug\net8.0\SqrtNumber.exe
+D:\ProgrammingPractice_CSharp\SqrtNumber\bin\Debug\net8.0\SqrtNumber.deps.json
+D:\ProgrammingPractice_CSharp\SqrtNumber\bin\Debug\net8.0\SqrtNumber.runtimeconfig.json
+D:\ProgrammingPractice_CSharp\SqrtNumber\bin\Debug\net8.0\SqrtNumber.dll
+D:\ProgrammingPractice_CSharp\SqrtNumber\bin\Debug\net8.0\SqrtNumber.pdb
+D:\ProgrammingPractice_CSharp\SqrtNumber\obj\Debug\net8.0\SqrtNumber.dll
+D:\ProgrammingPractice_CSharp\SqrtNumber\obj\Debug\net8.0\refint\SqrtNumber.dll
+D:\ProgrammingPractice_CSharp\SqrtNumber\obj\Debug\net8.0\SqrtNumber.pdb
+D:\ProgrammingPractice_CSharp\SqrtNumber\obj\Debug\net8.0\SqrtNumber.genruntimeconfig.cache
+D:\ProgrammingPractice_CSharp\SqrtNumber\obj\Debug\net8.0\ref\SqrtNumber.dll

@@ -1,0 +1,14 @@
+D:\ProgrammingPractice_CSharp\SymmetricTree\bin\Debug\net8.0\SymmetricTree.exe
+D:\ProgrammingPractice_CSharp\SymmetricTree\bin\Debug\net8.0\SymmetricTree.deps.json
+D:\ProgrammingPractice_CSharp\SymmetricTree\bin\Debug\net8.0\SymmetricTree.runtimeconfig.json
+D:\ProgrammingPractice_CSharp\SymmetricTree\bin\Debug\net8.0\SymmetricTree.dll
+D:\ProgrammingPractice_CSharp\SymmetricTree\bin\Debug\net8.0\SymmetricTree.pdb
+D:\ProgrammingPractice_CSharp\SymmetricTree\obj\Debug\net8.0\SymmetricTree.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgrammingPractice_CSharp\SymmetricTree\obj\Debug\net8.0\SymmetricTree.AssemblyInfoInputs.cache
+D:\ProgrammingPractice_CSharp\SymmetricTree\obj\Debug\net8.0\SymmetricTree.AssemblyInfo.cs
+D:\ProgrammingPractice_CSharp\SymmetricTree\obj\Debug\net8.0\SymmetricTree.csproj.CoreCompileInputs.cache
+D:\ProgrammingPractice_CSharp\SymmetricTree\obj\Debug\net8.0\SymmetricTree.dll
+D:\ProgrammingPractice_CSharp\SymmetricTree\obj\Debug\net8.0\refint\SymmetricTree.dll
+D:\ProgrammingPractice_CSharp\SymmetricTree\obj\Debug\net8.0\SymmetricTree.pdb
+D:\ProgrammingPractice_CSharp\SymmetricTree\obj\Debug\net8.0\SymmetricTree.genruntimeconfig.cache
+D:\ProgrammingPractice_CSharp\SymmetricTree\obj\Debug\net8.0\ref\SymmetricTree.dll

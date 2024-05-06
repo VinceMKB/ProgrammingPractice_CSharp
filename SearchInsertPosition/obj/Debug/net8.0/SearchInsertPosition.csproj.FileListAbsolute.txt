@@ -1,0 +1,14 @@
+D:\ProgrammingPractice_CSharp\SearchInsertPosition\obj\Debug\net8.0\SearchInsertPosition.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgrammingPractice_CSharp\SearchInsertPosition\obj\Debug\net8.0\SearchInsertPosition.AssemblyInfoInputs.cache
+D:\ProgrammingPractice_CSharp\SearchInsertPosition\obj\Debug\net8.0\SearchInsertPosition.AssemblyInfo.cs
+D:\ProgrammingPractice_CSharp\SearchInsertPosition\obj\Debug\net8.0\SearchInsertPosition.csproj.CoreCompileInputs.cache
+D:\ProgrammingPractice_CSharp\SearchInsertPosition\bin\Debug\net8.0\SearchInsertPosition.exe
+D:\ProgrammingPractice_CSharp\SearchInsertPosition\bin\Debug\net8.0\SearchInsertPosition.deps.json
+D:\ProgrammingPractice_CSharp\SearchInsertPosition\bin\Debug\net8.0\SearchInsertPosition.runtimeconfig.json
+D:\ProgrammingPractice_CSharp\SearchInsertPosition\bin\Debug\net8.0\SearchInsertPosition.dll
+D:\ProgrammingPractice_CSharp\SearchInsertPosition\bin\Debug\net8.0\SearchInsertPosition.pdb
+D:\ProgrammingPractice_CSharp\SearchInsertPosition\obj\Debug\net8.0\SearchInsertPosition.dll
+D:\ProgrammingPractice_CSharp\SearchInsertPosition\obj\Debug\net8.0\refint\SearchInsertPosition.dll
+D:\ProgrammingPractice_CSharp\SearchInsertPosition\obj\Debug\net8.0\SearchInsertPosition.pdb
+D:\ProgrammingPractice_CSharp\SearchInsertPosition\obj\Debug\net8.0\SearchInsertPosition.genruntimeconfig.cache
+D:\ProgrammingPractice_CSharp\SearchInsertPosition\obj\Debug\net8.0\ref\SearchInsertPosition.dll

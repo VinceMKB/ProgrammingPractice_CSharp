@@ -1,0 +1,14 @@
+D:\ProgrammingPractice_CSharp\LengthOfLastWord\bin\Debug\net8.0\LengthOfLastWord.exe
+D:\ProgrammingPractice_CSharp\LengthOfLastWord\bin\Debug\net8.0\LengthOfLastWord.deps.json
+D:\ProgrammingPractice_CSharp\LengthOfLastWord\bin\Debug\net8.0\LengthOfLastWord.runtimeconfig.json
+D:\ProgrammingPractice_CSharp\LengthOfLastWord\bin\Debug\net8.0\LengthOfLastWord.dll
+D:\ProgrammingPractice_CSharp\LengthOfLastWord\bin\Debug\net8.0\LengthOfLastWord.pdb
+D:\ProgrammingPractice_CSharp\LengthOfLastWord\obj\Debug\net8.0\LengthOfLastWord.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgrammingPractice_CSharp\LengthOfLastWord\obj\Debug\net8.0\LengthOfLastWord.AssemblyInfoInputs.cache
+D:\ProgrammingPractice_CSharp\LengthOfLastWord\obj\Debug\net8.0\LengthOfLastWord.AssemblyInfo.cs
+D:\ProgrammingPractice_CSharp\LengthOfLastWord\obj\Debug\net8.0\LengthOfLastWord.csproj.CoreCompileInputs.cache
+D:\ProgrammingPractice_CSharp\LengthOfLastWord\obj\Debug\net8.0\LengthOfLastWord.dll
+D:\ProgrammingPractice_CSharp\LengthOfLastWord\obj\Debug\net8.0\refint\LengthOfLastWord.dll
+D:\ProgrammingPractice_CSharp\LengthOfLastWord\obj\Debug\net8.0\LengthOfLastWord.pdb
+D:\ProgrammingPractice_CSharp\LengthOfLastWord\obj\Debug\net8.0\LengthOfLastWord.genruntimeconfig.cache
+D:\ProgrammingPractice_CSharp\LengthOfLastWord\obj\Debug\net8.0\ref\LengthOfLastWord.dll

@@ -1,0 +1,14 @@
+D:\ProgrammingPractice_CSharp\DepthFirstSearch\obj\Debug\net8.0\DepthFirstSearch.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgrammingPractice_CSharp\DepthFirstSearch\obj\Debug\net8.0\DepthFirstSearch.AssemblyInfoInputs.cache
+D:\ProgrammingPractice_CSharp\DepthFirstSearch\obj\Debug\net8.0\DepthFirstSearch.AssemblyInfo.cs
+D:\ProgrammingPractice_CSharp\DepthFirstSearch\obj\Debug\net8.0\DepthFirstSearch.csproj.CoreCompileInputs.cache
+D:\ProgrammingPractice_CSharp\DepthFirstSearch\bin\Debug\net8.0\DepthFirstSearch.exe
+D:\ProgrammingPractice_CSharp\DepthFirstSearch\bin\Debug\net8.0\DepthFirstSearch.deps.json
+D:\ProgrammingPractice_CSharp\DepthFirstSearch\bin\Debug\net8.0\DepthFirstSearch.runtimeconfig.json
+D:\ProgrammingPractice_CSharp\DepthFirstSearch\bin\Debug\net8.0\DepthFirstSearch.dll
+D:\ProgrammingPractice_CSharp\DepthFirstSearch\bin\Debug\net8.0\DepthFirstSearch.pdb
+D:\ProgrammingPractice_CSharp\DepthFirstSearch\obj\Debug\net8.0\DepthFirstSearch.dll
+D:\ProgrammingPractice_CSharp\DepthFirstSearch\obj\Debug\net8.0\refint\DepthFirstSearch.dll
+D:\ProgrammingPractice_CSharp\DepthFirstSearch\obj\Debug\net8.0\DepthFirstSearch.pdb
+D:\ProgrammingPractice_CSharp\DepthFirstSearch\obj\Debug\net8.0\DepthFirstSearch.genruntimeconfig.cache
+D:\ProgrammingPractice_CSharp\DepthFirstSearch\obj\Debug\net8.0\ref\DepthFirstSearch.dll

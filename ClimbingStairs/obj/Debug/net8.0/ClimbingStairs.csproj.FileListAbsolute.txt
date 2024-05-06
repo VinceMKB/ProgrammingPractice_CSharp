@@ -1,0 +1,14 @@
+D:\ProgrammingPractice_CSharp\ClimbingStairs\obj\Debug\net8.0\ClimbingStairs.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgrammingPractice_CSharp\ClimbingStairs\obj\Debug\net8.0\ClimbingStairs.AssemblyInfoInputs.cache
+D:\ProgrammingPractice_CSharp\ClimbingStairs\obj\Debug\net8.0\ClimbingStairs.AssemblyInfo.cs
+D:\ProgrammingPractice_CSharp\ClimbingStairs\obj\Debug\net8.0\ClimbingStairs.csproj.CoreCompileInputs.cache
+D:\ProgrammingPractice_CSharp\ClimbingStairs\bin\Debug\net8.0\ClimbingStairs.exe
+D:\ProgrammingPractice_CSharp\ClimbingStairs\bin\Debug\net8.0\ClimbingStairs.deps.json
+D:\ProgrammingPractice_CSharp\ClimbingStairs\bin\Debug\net8.0\ClimbingStairs.runtimeconfig.json
+D:\ProgrammingPractice_CSharp\ClimbingStairs\bin\Debug\net8.0\ClimbingStairs.dll
+D:\ProgrammingPractice_CSharp\ClimbingStairs\bin\Debug\net8.0\ClimbingStairs.pdb
+D:\ProgrammingPractice_CSharp\ClimbingStairs\obj\Debug\net8.0\ClimbingStairs.dll
+D:\ProgrammingPractice_CSharp\ClimbingStairs\obj\Debug\net8.0\refint\ClimbingStairs.dll
+D:\ProgrammingPractice_CSharp\ClimbingStairs\obj\Debug\net8.0\ClimbingStairs.pdb
+D:\ProgrammingPractice_CSharp\ClimbingStairs\obj\Debug\net8.0\ClimbingStairs.genruntimeconfig.cache
+D:\ProgrammingPractice_CSharp\ClimbingStairs\obj\Debug\net8.0\ref\ClimbingStairs.dll
