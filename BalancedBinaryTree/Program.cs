@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace MaxDepthBinaryTree
+namespace BalancedBinaryTree
 {
     public class TreeNode
     {
@@ -22,18 +22,28 @@ namespace MaxDepthBinaryTree
             return new_node;
         }
 
-        public int MaxDepth(TreeNode m_root)
+        public int Height(TreeNode side)
         {
-            
-            if(m_root == null)
+            if(side == null)
             {
                 return 0;
             }
 
-            int left_level = MaxDepth(m_root.left);
-            int right_level = MaxDepth(m_root.right);
+            return 1 + Math.Max(Height(side.left), Height(side.right));
+        }
 
-            return Math.Max(left_level, right_level) + 1;
+        public bool isBalanced(TreeNode m_root)
+        {
+            if(m_root == null)
+            {
+                return true;
+            }
+
+            int LeftSide_Height = Height(m_root.left);
+            int RightSide_Height = Height(m_root.right);
+
+            return Math.Abs(LeftSide_Height - RightSide_Height) <= 1 && isBalanced(m_root.left) && isBalanced(m_root.right);
+
         }
     }
     class Program
@@ -49,9 +59,10 @@ namespace MaxDepthBinaryTree
             root.left.left = solution.CreateTreeNode(4);
             root.left.left.left = solution.CreateTreeNode(8);
 
-            int result = solution.MaxDepth(root);
 
-            Console.WriteLine($"The max depth is: {result}");
+            bool result = solution.isBalanced(root);
+
+            Console.WriteLine($"Is the BinaryTree balanced: {result.ToString()}");
         }
     }
 }

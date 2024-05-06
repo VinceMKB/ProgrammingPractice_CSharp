@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace SameTree
+namespace SymmetricBinaryTree
 {
     public class TreeNode
     {
