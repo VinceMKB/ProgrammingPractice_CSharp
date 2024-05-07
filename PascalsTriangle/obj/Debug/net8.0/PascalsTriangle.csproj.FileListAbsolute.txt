@@ -1,0 +1,15 @@
+D:\ProgrammingPractice_CSharp\PascalsTriangle\obj\Debug\net8.0\PascalsTriangle.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgrammingPractice_CSharp\PascalsTriangle\obj\Debug\net8.0\PascalsTriangle.AssemblyInfoInputs.cache
+D:\ProgrammingPractice_CSharp\PascalsTriangle\obj\Debug\net8.0\PascalsTriangle.AssemblyInfo.cs
+D:\ProgrammingPractice_CSharp\PascalsTriangle\obj\Debug\net8.0\PascalsTriangle.csproj.CoreCompileInputs.cache
+D:\ProgrammingPractice_CSharp\PascalsTriangle\obj\Debug\net8.0\PascalsTriangle.sourcelink.json
+D:\ProgrammingPractice_CSharp\PascalsTriangle\bin\Debug\net8.0\PascalsTriangle.exe
+D:\ProgrammingPractice_CSharp\PascalsTriangle\bin\Debug\net8.0\PascalsTriangle.deps.json
+D:\ProgrammingPractice_CSharp\PascalsTriangle\bin\Debug\net8.0\PascalsTriangle.runtimeconfig.json
+D:\ProgrammingPractice_CSharp\PascalsTriangle\bin\Debug\net8.0\PascalsTriangle.dll
+D:\ProgrammingPractice_CSharp\PascalsTriangle\bin\Debug\net8.0\PascalsTriangle.pdb
+D:\ProgrammingPractice_CSharp\PascalsTriangle\obj\Debug\net8.0\PascalsTriangle.dll
+D:\ProgrammingPractice_CSharp\PascalsTriangle\obj\Debug\net8.0\refint\PascalsTriangle.dll
+D:\ProgrammingPractice_CSharp\PascalsTriangle\obj\Debug\net8.0\PascalsTriangle.pdb
+D:\ProgrammingPractice_CSharp\PascalsTriangle\obj\Debug\net8.0\PascalsTriangle.genruntimeconfig.cache
+D:\ProgrammingPractice_CSharp\PascalsTriangle\obj\Debug\net8.0\ref\PascalsTriangle.dll
