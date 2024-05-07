@@ -1,0 +1,15 @@
+D:\ProgrammingPractice_CSharp\PascalsTriangleTwo\obj\Debug\net8.0\PascalsTriangleTwo.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgrammingPractice_CSharp\PascalsTriangleTwo\obj\Debug\net8.0\PascalsTriangleTwo.AssemblyInfoInputs.cache
+D:\ProgrammingPractice_CSharp\PascalsTriangleTwo\obj\Debug\net8.0\PascalsTriangleTwo.AssemblyInfo.cs
+D:\ProgrammingPractice_CSharp\PascalsTriangleTwo\obj\Debug\net8.0\PascalsTriangleTwo.csproj.CoreCompileInputs.cache
+D:\ProgrammingPractice_CSharp\PascalsTriangleTwo\obj\Debug\net8.0\PascalsTriangleTwo.sourcelink.json
+D:\ProgrammingPractice_CSharp\PascalsTriangleTwo\bin\Debug\net8.0\PascalsTriangleTwo.exe
+D:\ProgrammingPractice_CSharp\PascalsTriangleTwo\bin\Debug\net8.0\PascalsTriangleTwo.deps.json
+D:\ProgrammingPractice_CSharp\PascalsTriangleTwo\bin\Debug\net8.0\PascalsTriangleTwo.runtimeconfig.json
+D:\ProgrammingPractice_CSharp\PascalsTriangleTwo\bin\Debug\net8.0\PascalsTriangleTwo.dll
+D:\ProgrammingPractice_CSharp\PascalsTriangleTwo\bin\Debug\net8.0\PascalsTriangleTwo.pdb
+D:\ProgrammingPractice_CSharp\PascalsTriangleTwo\obj\Debug\net8.0\PascalsTriangleTwo.dll
+D:\ProgrammingPractice_CSharp\PascalsTriangleTwo\obj\Debug\net8.0\refint\PascalsTriangleTwo.dll
+D:\ProgrammingPractice_CSharp\PascalsTriangleTwo\obj\Debug\net8.0\PascalsTriangleTwo.pdb
+D:\ProgrammingPractice_CSharp\PascalsTriangleTwo\obj\Debug\net8.0\PascalsTriangleTwo.genruntimeconfig.cache
+D:\ProgrammingPractice_CSharp\PascalsTriangleTwo\obj\Debug\net8.0\ref\PascalsTriangleTwo.dll

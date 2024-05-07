@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PascalsTriangle")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5086eddd144d890350fd554266433d711dede6a8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+48b2993f3a97b3e3a12dc73dc64de3eba173a591")]
 [assembly: System.Reflection.AssemblyProductAttribute("PascalsTriangle")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PascalsTriangle")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

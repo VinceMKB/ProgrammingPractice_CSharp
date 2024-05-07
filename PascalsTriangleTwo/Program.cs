@@ -1,7 +1,8 @@
 ﻿
 using System;
-
-namespace PascalsTriangle
+using System.Collections.Generic;
+//Pascal's Triangle is a triangular array of the binomial coefficients
+namespace PascalsTriangleTwo
 {
     public class Solution
     {
@@ -31,24 +32,31 @@ namespace PascalsTriangle
             return results;
         }
 
+        public IList<int> GetRow(int row_index)
+        {
+            return Generate(row_index + 1)[row_index];
+        }
+
     }
     class Program
     {
         static void Main(string[] args)
         {
             Solution solution = new Solution();
+            int rowToGet = 6;
+            int numOfRows = 7;
 
-            int numrows = 7;
+            Console.WriteLine("GetRow Function: ");
+            IList<int> results = solution.GetRow(rowToGet);
+            Console.WriteLine(string.Join(" ", results));
 
-            IList<IList<int>> list = solution.Generate(numrows);
+            Console.WriteLine("Generate Function: ");
+            IList<IList<int>> list =  solution.Generate(numOfRows);
             foreach(var innerlist in list)
             {
-                foreach(var element in innerlist)
-                {
-                    Console.Write($" {element} ");
-                }
-                Console.WriteLine();
+                Console.WriteLine(string.Join(" ", innerlist));
             }
+
         }
     }
 }
