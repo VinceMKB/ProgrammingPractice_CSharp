@@ -1,0 +1,15 @@
+D:\ProgrammingPractice_CSharp\SingleNumber\bin\Debug\net8.0\SingleNumber.exe
+D:\ProgrammingPractice_CSharp\SingleNumber\bin\Debug\net8.0\SingleNumber.deps.json
+D:\ProgrammingPractice_CSharp\SingleNumber\bin\Debug\net8.0\SingleNumber.runtimeconfig.json
+D:\ProgrammingPractice_CSharp\SingleNumber\bin\Debug\net8.0\SingleNumber.dll
+D:\ProgrammingPractice_CSharp\SingleNumber\bin\Debug\net8.0\SingleNumber.pdb
+D:\ProgrammingPractice_CSharp\SingleNumber\obj\Debug\net8.0\SingleNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgrammingPractice_CSharp\SingleNumber\obj\Debug\net8.0\SingleNumber.AssemblyInfoInputs.cache
+D:\ProgrammingPractice_CSharp\SingleNumber\obj\Debug\net8.0\SingleNumber.AssemblyInfo.cs
+D:\ProgrammingPractice_CSharp\SingleNumber\obj\Debug\net8.0\SingleNumber.csproj.CoreCompileInputs.cache
+D:\ProgrammingPractice_CSharp\SingleNumber\obj\Debug\net8.0\SingleNumber.sourcelink.json
+D:\ProgrammingPractice_CSharp\SingleNumber\obj\Debug\net8.0\SingleNumber.dll
+D:\ProgrammingPractice_CSharp\SingleNumber\obj\Debug\net8.0\refint\SingleNumber.dll
+D:\ProgrammingPractice_CSharp\SingleNumber\obj\Debug\net8.0\SingleNumber.pdb
+D:\ProgrammingPractice_CSharp\SingleNumber\obj\Debug\net8.0\SingleNumber.genruntimeconfig.cache
+D:\ProgrammingPractice_CSharp\SingleNumber\obj\Debug\net8.0\ref\SingleNumber.dll

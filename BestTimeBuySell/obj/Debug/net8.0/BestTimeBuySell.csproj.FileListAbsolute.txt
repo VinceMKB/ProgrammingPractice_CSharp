@@ -1,0 +1,15 @@
+D:\ProgrammingPractice_CSharp\BestTimeBuySell\obj\Debug\net8.0\BestTimeBuySell.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgrammingPractice_CSharp\BestTimeBuySell\obj\Debug\net8.0\BestTimeBuySell.AssemblyInfoInputs.cache
+D:\ProgrammingPractice_CSharp\BestTimeBuySell\obj\Debug\net8.0\BestTimeBuySell.AssemblyInfo.cs
+D:\ProgrammingPractice_CSharp\BestTimeBuySell\obj\Debug\net8.0\BestTimeBuySell.csproj.CoreCompileInputs.cache
+D:\ProgrammingPractice_CSharp\BestTimeBuySell\obj\Debug\net8.0\BestTimeBuySell.sourcelink.json
+D:\ProgrammingPractice_CSharp\BestTimeBuySell\bin\Debug\net8.0\BestTimeBuySell.exe
+D:\ProgrammingPractice_CSharp\BestTimeBuySell\bin\Debug\net8.0\BestTimeBuySell.deps.json
+D:\ProgrammingPractice_CSharp\BestTimeBuySell\bin\Debug\net8.0\BestTimeBuySell.runtimeconfig.json
+D:\ProgrammingPractice_CSharp\BestTimeBuySell\bin\Debug\net8.0\BestTimeBuySell.dll
+D:\ProgrammingPractice_CSharp\BestTimeBuySell\bin\Debug\net8.0\BestTimeBuySell.pdb
+D:\ProgrammingPractice_CSharp\BestTimeBuySell\obj\Debug\net8.0\BestTimeBuySell.dll
+D:\ProgrammingPractice_CSharp\BestTimeBuySell\obj\Debug\net8.0\refint\BestTimeBuySell.dll
+D:\ProgrammingPractice_CSharp\BestTimeBuySell\obj\Debug\net8.0\BestTimeBuySell.pdb
+D:\ProgrammingPractice_CSharp\BestTimeBuySell\obj\Debug\net8.0\BestTimeBuySell.genruntimeconfig.cache
+D:\ProgrammingPractice_CSharp\BestTimeBuySell\obj\Debug\net8.0\ref\BestTimeBuySell.dll
