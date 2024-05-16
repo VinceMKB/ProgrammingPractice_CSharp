@@ -1,0 +1,15 @@
+D:\ProgrammingPractice_CSharp\ValidAnagram\bin\Debug\net8.0\ValidAnagram.exe
+D:\ProgrammingPractice_CSharp\ValidAnagram\bin\Debug\net8.0\ValidAnagram.deps.json
+D:\ProgrammingPractice_CSharp\ValidAnagram\bin\Debug\net8.0\ValidAnagram.runtimeconfig.json
+D:\ProgrammingPractice_CSharp\ValidAnagram\bin\Debug\net8.0\ValidAnagram.dll
+D:\ProgrammingPractice_CSharp\ValidAnagram\bin\Debug\net8.0\ValidAnagram.pdb
+D:\ProgrammingPractice_CSharp\ValidAnagram\obj\Debug\net8.0\ValidAnagram.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgrammingPractice_CSharp\ValidAnagram\obj\Debug\net8.0\ValidAnagram.AssemblyInfoInputs.cache
+D:\ProgrammingPractice_CSharp\ValidAnagram\obj\Debug\net8.0\ValidAnagram.AssemblyInfo.cs
+D:\ProgrammingPractice_CSharp\ValidAnagram\obj\Debug\net8.0\ValidAnagram.csproj.CoreCompileInputs.cache
+D:\ProgrammingPractice_CSharp\ValidAnagram\obj\Debug\net8.0\ValidAnagram.sourcelink.json
+D:\ProgrammingPractice_CSharp\ValidAnagram\obj\Debug\net8.0\ValidAnagram.dll
+D:\ProgrammingPractice_CSharp\ValidAnagram\obj\Debug\net8.0\refint\ValidAnagram.dll
+D:\ProgrammingPractice_CSharp\ValidAnagram\obj\Debug\net8.0\ValidAnagram.pdb
+D:\ProgrammingPractice_CSharp\ValidAnagram\obj\Debug\net8.0\ValidAnagram.genruntimeconfig.cache
+D:\ProgrammingPractice_CSharp\ValidAnagram\obj\Debug\net8.0\ref\ValidAnagram.dll

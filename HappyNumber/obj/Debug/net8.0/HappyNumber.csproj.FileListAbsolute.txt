@@ -1,0 +1,15 @@
+D:\ProgrammingPractice_CSharp\HappyNumber\obj\Debug\net8.0\HappyNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgrammingPractice_CSharp\HappyNumber\obj\Debug\net8.0\HappyNumber.AssemblyInfoInputs.cache
+D:\ProgrammingPractice_CSharp\HappyNumber\obj\Debug\net8.0\HappyNumber.AssemblyInfo.cs
+D:\ProgrammingPractice_CSharp\HappyNumber\obj\Debug\net8.0\HappyNumber.csproj.CoreCompileInputs.cache
+D:\ProgrammingPractice_CSharp\HappyNumber\obj\Debug\net8.0\HappyNumber.sourcelink.json
+D:\ProgrammingPractice_CSharp\HappyNumber\bin\Debug\net8.0\HappyNumber.exe
+D:\ProgrammingPractice_CSharp\HappyNumber\bin\Debug\net8.0\HappyNumber.deps.json
+D:\ProgrammingPractice_CSharp\HappyNumber\bin\Debug\net8.0\HappyNumber.runtimeconfig.json
+D:\ProgrammingPractice_CSharp\HappyNumber\bin\Debug\net8.0\HappyNumber.dll
+D:\ProgrammingPractice_CSharp\HappyNumber\bin\Debug\net8.0\HappyNumber.pdb
+D:\ProgrammingPractice_CSharp\HappyNumber\obj\Debug\net8.0\HappyNumber.dll
+D:\ProgrammingPractice_CSharp\HappyNumber\obj\Debug\net8.0\refint\HappyNumber.dll
+D:\ProgrammingPractice_CSharp\HappyNumber\obj\Debug\net8.0\HappyNumber.pdb
+D:\ProgrammingPractice_CSharp\HappyNumber\obj\Debug\net8.0\HappyNumber.genruntimeconfig.cache
+D:\ProgrammingPractice_CSharp\HappyNumber\obj\Debug\net8.0\ref\HappyNumber.dll
