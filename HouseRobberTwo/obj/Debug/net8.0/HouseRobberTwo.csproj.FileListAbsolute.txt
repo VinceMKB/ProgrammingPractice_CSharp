@@ -1,0 +1,15 @@
+D:\ProgrammingPractice_CSharp\HouseRobberTwo\bin\Debug\net8.0\HouseRobberTwo.exe
+D:\ProgrammingPractice_CSharp\HouseRobberTwo\bin\Debug\net8.0\HouseRobberTwo.deps.json
+D:\ProgrammingPractice_CSharp\HouseRobberTwo\bin\Debug\net8.0\HouseRobberTwo.runtimeconfig.json
+D:\ProgrammingPractice_CSharp\HouseRobberTwo\bin\Debug\net8.0\HouseRobberTwo.dll
+D:\ProgrammingPractice_CSharp\HouseRobberTwo\bin\Debug\net8.0\HouseRobberTwo.pdb
+D:\ProgrammingPractice_CSharp\HouseRobberTwo\obj\Debug\net8.0\HouseRobberTwo.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgrammingPractice_CSharp\HouseRobberTwo\obj\Debug\net8.0\HouseRobberTwo.AssemblyInfoInputs.cache
+D:\ProgrammingPractice_CSharp\HouseRobberTwo\obj\Debug\net8.0\HouseRobberTwo.AssemblyInfo.cs
+D:\ProgrammingPractice_CSharp\HouseRobberTwo\obj\Debug\net8.0\HouseRobberTwo.csproj.CoreCompileInputs.cache
+D:\ProgrammingPractice_CSharp\HouseRobberTwo\obj\Debug\net8.0\HouseRobberTwo.sourcelink.json
+D:\ProgrammingPractice_CSharp\HouseRobberTwo\obj\Debug\net8.0\HouseRobberTwo.dll
+D:\ProgrammingPractice_CSharp\HouseRobberTwo\obj\Debug\net8.0\refint\HouseRobberTwo.dll
+D:\ProgrammingPractice_CSharp\HouseRobberTwo\obj\Debug\net8.0\HouseRobberTwo.pdb
+D:\ProgrammingPractice_CSharp\HouseRobberTwo\obj\Debug\net8.0\HouseRobberTwo.genruntimeconfig.cache
+D:\ProgrammingPractice_CSharp\HouseRobberTwo\obj\Debug\net8.0\ref\HouseRobberTwo.dll

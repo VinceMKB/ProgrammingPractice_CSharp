@@ -1,0 +1,15 @@
+D:\ProgrammingPractice_CSharp\SwapNodesInPairs\bin\Debug\net8.0\SwapNodesInPairs.exe
+D:\ProgrammingPractice_CSharp\SwapNodesInPairs\bin\Debug\net8.0\SwapNodesInPairs.deps.json
+D:\ProgrammingPractice_CSharp\SwapNodesInPairs\bin\Debug\net8.0\SwapNodesInPairs.runtimeconfig.json
+D:\ProgrammingPractice_CSharp\SwapNodesInPairs\bin\Debug\net8.0\SwapNodesInPairs.dll
+D:\ProgrammingPractice_CSharp\SwapNodesInPairs\bin\Debug\net8.0\SwapNodesInPairs.pdb
+D:\ProgrammingPractice_CSharp\SwapNodesInPairs\obj\Debug\net8.0\SwapNodesInPairs.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgrammingPractice_CSharp\SwapNodesInPairs\obj\Debug\net8.0\SwapNodesInPairs.AssemblyInfoInputs.cache
+D:\ProgrammingPractice_CSharp\SwapNodesInPairs\obj\Debug\net8.0\SwapNodesInPairs.AssemblyInfo.cs
+D:\ProgrammingPractice_CSharp\SwapNodesInPairs\obj\Debug\net8.0\SwapNodesInPairs.csproj.CoreCompileInputs.cache
+D:\ProgrammingPractice_CSharp\SwapNodesInPairs\obj\Debug\net8.0\SwapNodesInPairs.sourcelink.json
+D:\ProgrammingPractice_CSharp\SwapNodesInPairs\obj\Debug\net8.0\SwapNodesInPairs.dll
+D:\ProgrammingPractice_CSharp\SwapNodesInPairs\obj\Debug\net8.0\refint\SwapNodesInPairs.dll
+D:\ProgrammingPractice_CSharp\SwapNodesInPairs\obj\Debug\net8.0\SwapNodesInPairs.pdb
+D:\ProgrammingPractice_CSharp\SwapNodesInPairs\obj\Debug\net8.0\SwapNodesInPairs.genruntimeconfig.cache
+D:\ProgrammingPractice_CSharp\SwapNodesInPairs\obj\Debug\net8.0\ref\SwapNodesInPairs.dll

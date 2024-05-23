@@ -1,0 +1,15 @@
+D:\ProgrammingPractice_CSharp\RomanToInt\obj\Debug\net8.0\RomanToInt.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgrammingPractice_CSharp\RomanToInt\obj\Debug\net8.0\RomanToInt.AssemblyInfoInputs.cache
+D:\ProgrammingPractice_CSharp\RomanToInt\obj\Debug\net8.0\RomanToInt.AssemblyInfo.cs
+D:\ProgrammingPractice_CSharp\RomanToInt\obj\Debug\net8.0\RomanToInt.csproj.CoreCompileInputs.cache
+D:\ProgrammingPractice_CSharp\RomanToInt\obj\Debug\net8.0\RomanToInt.sourcelink.json
+D:\ProgrammingPractice_CSharp\RomanToInt\bin\Debug\net8.0\RomanToInt.exe
+D:\ProgrammingPractice_CSharp\RomanToInt\bin\Debug\net8.0\RomanToInt.deps.json
+D:\ProgrammingPractice_CSharp\RomanToInt\bin\Debug\net8.0\RomanToInt.runtimeconfig.json
+D:\ProgrammingPractice_CSharp\RomanToInt\bin\Debug\net8.0\RomanToInt.dll
+D:\ProgrammingPractice_CSharp\RomanToInt\bin\Debug\net8.0\RomanToInt.pdb
+D:\ProgrammingPractice_CSharp\RomanToInt\obj\Debug\net8.0\RomanToInt.dll
+D:\ProgrammingPractice_CSharp\RomanToInt\obj\Debug\net8.0\refint\RomanToInt.dll
+D:\ProgrammingPractice_CSharp\RomanToInt\obj\Debug\net8.0\RomanToInt.pdb
+D:\ProgrammingPractice_CSharp\RomanToInt\obj\Debug\net8.0\RomanToInt.genruntimeconfig.cache
+D:\ProgrammingPractice_CSharp\RomanToInt\obj\Debug\net8.0\ref\RomanToInt.dll

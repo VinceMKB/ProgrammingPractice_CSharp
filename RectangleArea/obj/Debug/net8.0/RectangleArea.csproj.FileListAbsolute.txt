@@ -1,0 +1,15 @@
+D:\ProgrammingPractice_CSharp\RectangleArea\obj\Debug\net8.0\RectangleArea.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgrammingPractice_CSharp\RectangleArea\obj\Debug\net8.0\RectangleArea.AssemblyInfoInputs.cache
+D:\ProgrammingPractice_CSharp\RectangleArea\obj\Debug\net8.0\RectangleArea.AssemblyInfo.cs
+D:\ProgrammingPractice_CSharp\RectangleArea\obj\Debug\net8.0\RectangleArea.csproj.CoreCompileInputs.cache
+D:\ProgrammingPractice_CSharp\RectangleArea\obj\Debug\net8.0\RectangleArea.sourcelink.json
+D:\ProgrammingPractice_CSharp\RectangleArea\bin\Debug\net8.0\RectangleArea.exe
+D:\ProgrammingPractice_CSharp\RectangleArea\bin\Debug\net8.0\RectangleArea.deps.json
+D:\ProgrammingPractice_CSharp\RectangleArea\bin\Debug\net8.0\RectangleArea.runtimeconfig.json
+D:\ProgrammingPractice_CSharp\RectangleArea\bin\Debug\net8.0\RectangleArea.dll
+D:\ProgrammingPractice_CSharp\RectangleArea\bin\Debug\net8.0\RectangleArea.pdb
+D:\ProgrammingPractice_CSharp\RectangleArea\obj\Debug\net8.0\RectangleArea.dll
+D:\ProgrammingPractice_CSharp\RectangleArea\obj\Debug\net8.0\refint\RectangleArea.dll
+D:\ProgrammingPractice_CSharp\RectangleArea\obj\Debug\net8.0\RectangleArea.pdb
+D:\ProgrammingPractice_CSharp\RectangleArea\obj\Debug\net8.0\RectangleArea.genruntimeconfig.cache
+D:\ProgrammingPractice_CSharp\RectangleArea\obj\Debug\net8.0\ref\RectangleArea.dll
